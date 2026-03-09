@@ -1,6 +1,7 @@
 # Future Women in STEM
 <img width="1536" height="1024" alt="Preview Image Github Women STEM" src="https://github.com/user-attachments/assets/823d1eeb-433f-4819-87a5-1808c7520dd4" />
 
+
 Future Women in STEM is a Java program designed to encourage and support girls and women interested in STEM fields. 
 The program provides educational resources, mentorship opportunites, details inspirational woman figures in computer science, and tools that help users explore STEM career paths and financial opportunites.
 

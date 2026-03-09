@@ -25,6 +25,11 @@ Future Women in STEM program assists users with the following:
 
 The goal is to create a resource hub that promotes these solutions and opportunities for girls and women interested in STEM.
 
+Application photos:
+
+<img width="1433" height="847" alt="image" src="https://github.com/user-attachments/assets/21366482-4e12-4ef5-bfdf-0b5036cb44a7" />
+
+
 Raw Program:
 
 package womenInStem;

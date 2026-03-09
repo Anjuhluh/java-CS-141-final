@@ -9,19 +9,19 @@ Problem:
 Women in STEM remain underrepresented in many STEM fields, especially computer science and other technology related careers.
 Many students may not know where to find:
 
-- mentor opportunities
-- coding communities
-- scholarships and financial support
-- women role models in STEM/technology
+- Mentor opportunities
+- Coding communities
+- Scholarships and financial support
+- Women role models in STEM/technology
 
 Solution:
 Future Women in STEM program assists users with the following:
 
-- learn about influencual women in technology and computer science fields
-- discover organizations that support girls and women in coding
-- explore mentorship opportunites
-- take a short STEM career quiz
-- estimate potential scholarhip funding
+- Learn about influencual women in technology and computer science fields
+- Discover organizations that support girls and women in coding
+- Explore mentorship opportunites
+- Take a short STEM career quiz
+- Estimate potential scholarhip funding
 
 The goal is to create a resource hub that promotes these solutions and opportunities for girls and women interested in STEM.
 
